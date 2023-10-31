@@ -1,7 +1,6 @@
 # Hi there, I'm Arthur! 👋
 
-I'm a passionate Computer Science major at [USEK](https://www.usek.edu.lb/en/home), always looking to expand my knowledge and create exciting personal projects.
-I can talk about anything tech-related for hours, feel free to reach out and connect!
+My coding journey started at the age of 19 where, after my first job in the tech industry, I discovered a love for programming that has only been increasing since.
 
 ## 🔧 Technologies & Tools
 
@@ -11,9 +10,11 @@ I can talk about anything tech-related for hours, feel free to reach out and con
 - 🛢️ Databases: SQLite, PostgreSQL, Access
 - 📱 Android: Multi-Module Architecture, Jetpack Compose, Room, Dagger-Hilt, Koin
 
-## 🌱 Currently Learning
+## 🌱 Current Situation
 
-I'm currently learning React Native after having gone through React, hoping to release my first small project.
+- 🎓 3rd year Computer Science major at [USEK](https://www.usek.edu.lb/en/home).
+- ⚛️ Learning React Native.
+- 🖥️ Working on a small React Native project and redesigning my Portfolio website.
 <!--
 ## 📂 Projects
 
@@ -24,11 +25,3 @@ Here are some of the projects I'm proud of:
 
 Feel free to explore my repositories for more!
 -->
-## 📫 Let's Connect
-
-- 📧 Email: career@arthurkasparian.dev
-- 🐦 Twitter: [@KasparianArthur](https://twitter.com/KasparianArthur)
-- 💼 LinkedIn: [in/ArthurKasparian](https://www.linkedin.com/in/arthurkasparian)
-- 🌐 Portfolio: [arthurkasparian.dev](https://arthurkasparian.dev)
-
-Thanks for stopping by!

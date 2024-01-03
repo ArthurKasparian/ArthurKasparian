@@ -4,11 +4,12 @@ My coding journey started straight out of high school where, after my first job 
 
 ## 🔧 Technologies & Tools
 
-- 💻 Languages: HTML, CSS, Javascript/Typescript.
-- 🎨 Libraries: React, Vite, Sass/SCSS
+- 💻 General: Javascript/Typescript, Kotlin, Java, C++, SQL, Git.
+- 🤖 Android: Jetpack Compose, Compose Navigation, MVVM, Dagger Hilt, Manual DI, Room Database, Proto DataStore.
+- 🌐 Web: SCSS/Sass, React/React Native, React Router, Redux, Vite.
 
 ## 🌱 Current Situation
 
 - 🎓 Computer Science student at [USEK](https://www.usek.edu.lb/en/home).
-- ⚛️ Learning React Native.
-- 🖥️ Working on a Native Android project.
+- ⚛️ Improving my Android development skills.
+- 🖥️ Working on [Thankly](https://github.com/ArthurKasparian/thankly).

@@ -14,5 +14,5 @@ Naturally, creating good software requires a lot of auxiliary skills, which is h
 ## 🌱 Current Situation
 
 - 🎓 Computer Science student at [USEK](https://www.usek.edu.lb/en/home).
-- 🏗️ Rebuilding my [personal website](https://github.com/ArthurLasparian/personal-website.frontend) using [AstroJS](https://astro.build).
+- 🏗️ Rebuilding my [portfolio site](https://github.com/ArthurKasparian/portfolio.frontend) using [Astro](https://astro.build).
 - 📓 Preparing work on [Poesea](https://github.com/ArthurKasparian/poesea.frontend).

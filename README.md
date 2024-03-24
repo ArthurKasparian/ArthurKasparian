@@ -1,18 +1,18 @@
-# Hey! I'm Arthur. 😊
+# 🤴🏻 Hey, I'm Arthur.
 
-Thanks for checking out my profile!
+I'm currently focusing on **web and mobile** development, but I don't want to limit myself to a specific field, would always love to try my hand at new technologies and projects!
 
-Straight out of high school, I rekindled my love for tech thanks to a few jobs in that field, which eventually lead to me diving into the world of coding, and I've loved every minute of it since.<br>
-Naturally, creating good software requires a lot of auxiliary skills, which is how I got into graphic design (UI/UX mostly) as well. I've found passion in that aspect of software development too, as it only improves the final product when done thoroughly.
+## 🧠 Skillset
 
-## 🔧 Skills & Tools
+- 🔤 **General**: Javascript/Typescript, Kotlin/Java, SQL, Git.
+- 🤖 **Android**: Jetpack Libraries, MVVM, Dependency Injection, Local Storage, Web API Consumption.
+- 🌐 **Web**: Astro, React/React Native, SCSS/Sass, Vite.
 
-- 💻 General: Javascript/Typescript, Kotlin/Java, SQL, Git.
-- 🤖 Android: Jetpack Libraries, MVVM, Dependency Injection, Local Storage, Web API Consumption.
-- 🌐 Web: Astro, React/React Native, SCSS/Sass, Vite.
-
-## 🌱 Current Situation
+## ℹ️ Status 
 
 - 🎓 Computer Science student at [USEK](https://www.usek.edu.lb/en/home).
-- 🏗️ Rebuilding my [portfolio site](https://github.com/ArthurKasparian/portfolio.frontend) using [Astro](https://astro.build).
-- 📓 Preparing work on [Poesea](https://github.com/ArthurKasparian/poesea.frontend).
+- 🏗️ Working on my [portfolio site](https://arthurkasparian.dev) using [Astro](https://astro.build).
+- 📓 Preparing for upcoming **web** & **mobile** projects.
+
+
+> Some projects might remain **closed-source**, so it's best to look for the complete list on my [portfolio](https://arthurkasparian.dev) instead!
